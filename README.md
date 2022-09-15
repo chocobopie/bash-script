@@ -6,4 +6,4 @@
 
 sudo usermod -aG docker ubuntu
 
-docker exec -it [name] bin/bash 
+docker exec -it [name] bin/bash ( get in docker container )
